@@ -1,5 +1,7 @@
 # Principal Component Analysis
 
+PLEASE INSTALL ASTROCONDA FOR RUNNING THIS CODE
+
 PCA is a widely used tool for analysing big data files. In this case, we will use it to analyze the spectra in a MIRI/NIRSpec hyperrspectral cube.
 
 We will see three diferent kinds of analysis: 
