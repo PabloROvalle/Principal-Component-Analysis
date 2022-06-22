@@ -1,0 +1,8 @@
+name: astroconda
+channels:
+  - http://ssb.stsci.edu/astroconda
+  - defaults
+dependencies:
+  - stsci
+  - python=3.7
+prefix: /obs/povalle/anaconda3/envs/astroconda
