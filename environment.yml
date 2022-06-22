@@ -5,4 +5,5 @@ channels:
 dependencies:
   - stsci
   - python=3.7
+  - plotly
 prefix: /obs/povalle/anaconda3/envs/astroconda
